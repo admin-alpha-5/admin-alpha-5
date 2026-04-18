@@ -1,96 +1,60 @@
-<!-- Animated Header -->
+<h1 align="center">ALi AL_eddi</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=علي+العدة+%7C+ALi+AL_eddi;Python+Developer;Automation+%7C+Scripts+%7C+Problem+Solver" />
-</p>
+<table align="right">
+ <tr><td><a href="README.md"><img src="images/us-flag.png" height="13"> English</a></td></tr>
+ <tr><td><a href="README_fr.md"><img src="images/fr-flag.png" height="13"> Français</a></td></tr>
+ <tr><td><a href="README_pt.md"><img src="images/br-flag.png" height="13"> Português</a></td></tr>
+</table>
 
-<h1 align="center">🔥 علي العدة | ALi AL_eddi 🔥</h1>
-<h3 align="center">⚡ Python Developer | Automation Specialist ⚡</h3>
+### 👨‍💻 About Me
+
+    💻  I am currently learning Python and building my programming skills.
+    ⚙️  Interested in automation and problem solving.
+    🧠  Always improving and learning new technologies.
+    🛠️  Using Visual Studio & VS Code.
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
 
-<!-- LinkedIn -->
-
-<a href="linkedin url here" target="_blank">
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-linkedin-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-social-media-pack-logos-icons-7516831.png" height="75" alt="LinkedIn"/>
+<a href="facebook url here">
+  <img src="https://img.icons8.com/fluency/96/facebook-new.png" height="60"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
-<!-- Facebook -->
-
-<a href="facebook url here" target="_blank">
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-facebook-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-social-media-pack-logos-icons-7516859.png" height="75" alt="Facebook"/>
+<a href="linkedin url here">
+  <img src="https://img.icons8.com/fluency/96/linkedin.png" height="60"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
-<!-- Instagram -->
-
-<a href="instagram url here" target="_blank">
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-instagram-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-social-media-pack-logos-icons-7516837.png" height="75" alt="Instagram"/>
+<a href="instagram url here">
+  <img src="https://img.icons8.com/fluency/96/instagram-new.png" height="60"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;
 
-<!-- YouTube -->
-
-<a href="youtube url here" target="_blank">
-  <img src="https://cdn3d.iconscout.com/3d/free/thumb/free-youtube-3d-icon-download-in-png-blend-fbx-gltf-file-formats--logo-social-media-pack-logos-icons-7516846.png" height="75" alt="YouTube"/>
+<a href="youtube url here">
+  <img src="https://img.icons8.com/fluency/96/youtube-play.png" height="60"/>
 </a>
 
 </p>
 
 ---
 
-## 👨‍💻 About Me
+<details>
+  <summary><b>⚡ Main Tech Knowledge</b></summary>
+  <br/>
 
-* 💻 Python Developer focused on real-world solutions
-* ⚙️ Specialized in automation & scripting
-* 🧠 Constant learner in tech & problem solving
-* 🚀 Building tools that simplify life
-* 🛠️ Using VS Code & Visual Studio
+![Python](https://img.shields.io/badge/PYTHON-3776AB.svg?\&style=flat\&logo=python\&logoColor=white) 
+![Git](https://img.shields.io/badge/GIT-%23F05033.svg?\&style=flat\&logo=git\&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?\&style=flat\&logo=github\&logoColor=white) 
+![VSCode](https://img.shields.io/badge/VSCODE-007ACC.svg?\&style=flat\&logo=visual-studio-code) 
 
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,visualstudio" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🧠 Currently Learning
-
-* 🤖 Automation
-* 🌐 Web Scraping
-* 🔗 APIs
-* 📊 Data Analysis
+</details>
 
 ---
 
 <p align="center">
-🔥 Code • Automate • Dominate 🔥
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue" />
+ 🚀 Learning Python step by step.
 </p>
